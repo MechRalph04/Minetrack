@@ -1,9 +1,9 @@
 [
 	{
-		"name": "Hypixel",
-		"ip": "mc.hypixel.net",
-		"type": "PC",
-		"category": "minigames"
+		"name": "MechNetwork",
+		"ip": "game.mcpe1.com;19659",
+		"type": "PE",
+		"category": "vanilla"
 	},
 	{
 		"name": "HiveMC",
